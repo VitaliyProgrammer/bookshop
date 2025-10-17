@@ -1,0 +1,11 @@
+org\example\service\impl\BookServiceImpl.class
+org\example\dto\BookDto.class
+org\example\controller\BookController.class
+org\example\mapper\BookMapper.class
+org\example\repository\BookRepository.class
+org\example\exception\EntityNotFoundException.class
+org\example\dto\CreateBookRequestDto.class
+org\example\BookstoreProjectApplication.class
+org\example\mapper\BookMapperImpl.class
+org\example\service\BookService.class
+org\example\model\Book.class

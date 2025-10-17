@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="D:\Projects\bookshop\src\main\java\org\example\BookstoreProjectApplication.java">
+</file>
+<file name="D:\Projects\bookshop\src\main\java\org\example\controller\BookController.java">
+</file>
+<file name="D:\Projects\bookshop\src\main\java\org\example\dto\BookDto.java">
+</file>
+<file name="D:\Projects\bookshop\src\main\java\org\example\dto\CreateBookRequestDto.java">
+</file>
+<file name="D:\Projects\bookshop\src\main\java\org\example\exception\EntityNotFoundException.java">
+</file>
+<file name="D:\Projects\bookshop\src\main\java\org\example\mapper\BookMapper.java">
+</file>
+<file name="D:\Projects\bookshop\src\main\java\org\example\model\Book.java">
+</file>
+<file name="D:\Projects\bookshop\src\main\java\org\example\repository\BookRepository.java">
+</file>
+<file name="D:\Projects\bookshop\src\main\java\org\example\service\BookService.java">
+</file>
+<file name="D:\Projects\bookshop\src\main\java\org\example\service\impl\BookServiceImpl.java">
+</file>
+<file name="D:\Projects\bookshop\src\test\resources\application.properties">
+</file>
+</checkstyle>

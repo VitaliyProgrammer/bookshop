@@ -1,0 +1,13 @@
+#Fri Oct 17 20:22:10 MSK 2025
+D\:\\Projects\\bookshop\\src\\main\\java\\org\\example\\BookstoreProjectApplication.java=1760714653941
+D\:\\Projects\\bookshop\\src\\main\\java\\org\\example\\controller\\BookController.java=1760711729593
+D\:\\Projects\\bookshop\\src\\main\\java\\org\\example\\dto\\BookDto.java=1760709507857
+D\:\\Projects\\bookshop\\src\\main\\java\\org\\example\\dto\\CreateBookRequestDto.java=1760709663159
+D\:\\Projects\\bookshop\\src\\main\\java\\org\\example\\exception\\EntityNotFoundException.java=1760713135580
+D\:\\Projects\\bookshop\\src\\main\\java\\org\\example\\mapper\\BookMapper.java=1760710896589
+D\:\\Projects\\bookshop\\src\\main\\java\\org\\example\\model\\Book.java=1760719599931
+D\:\\Projects\\bookshop\\src\\main\\java\\org\\example\\repository\\BookRepository.java=1760710682157
+D\:\\Projects\\bookshop\\src\\main\\java\\org\\example\\service\\BookService.java=1760711259471
+D\:\\Projects\\bookshop\\src\\main\\java\\org\\example\\service\\impl\\BookServiceImpl.java=1760712981777
+D\:\\Projects\\bookshop\\src\\test\\resources\\application.properties=1760714624544
+configuration*?=F4A369A3026023FE772F19EED11566FEE808ACFE
